@@ -1,6 +1,7 @@
 # As stated in the description:
 
-This is simply a website for my personal use. Open source + built entirely AI free.
+This is simply a website for my personal use.
+Open source + built entirely AI free, though the code is likely questionably written. I'm not a web developer.
 
 Anyone can use this code with or without crediting me, with two exceptions:
 1. It can't be used for commercial use.
