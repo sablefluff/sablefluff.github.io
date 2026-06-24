@@ -1,4 +1,4 @@
-# As stated in the description:
+# As stated in the repository description:
 
 This is simply a website for my personal use.
 Open source + built entirely AI free, though the code is likely questionably written. I'm not a web developer.
