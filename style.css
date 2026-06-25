@@ -23,7 +23,7 @@ img {
     background-color: rgb(40, 40, 40);
     width: 20%;
     height:120%;
-    border-radius: 0% 0% 10% 0%;
+    border-bottom-right-radius:50% 15%;
 }
 
 .homepagelink {
