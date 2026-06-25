@@ -23,3 +23,12 @@ img {
     color:white;
     text-decoration: none;
 }
+.sidebarlink:link, .sidebarlink:visited {
+    color:rgb(163, 52, 52);
+}
+.sidebarlink:hover {
+    color:rgb(206, 35, 35);
+}
+.sidebarlink:active {
+    color:rgb(235, 15, 15);
+}
