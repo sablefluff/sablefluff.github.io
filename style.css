@@ -23,19 +23,19 @@ img {
     color:white;
     text-decoration: none;
 }
-.link:link {
+.defaultlink:link {
     color:rgb(187, 24, 24);
     text-decoration: none;
 }
-.link:visited {
+.defaultlink:visited {
     color:rgb(214, 61, 61);
     text-decoration: none;
 }
-.link:hover {
+.defaultlink:hover {
     color:rgb(255, 95, 95);
     text-decoration: none;
 }
-.link:active {
+.defaultlink:active {
     color:rgb(255, 95, 95);
     text-decoration: none;
 }
