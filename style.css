@@ -12,21 +12,17 @@ img {
     display: block;
 }
 
-p {
-    height:fit-content;
-}
-
 .main {
     display:flex;
     justify-content: center;
     align-items:start;
-    height:fit-content;
+    height:100%;
 }
 
 .sidebar {
     background-color: rgb(40, 40, 40);
-    height: 100%;
     width: 20%;
+    height:100%;
 }
 
 .homepagelink {
