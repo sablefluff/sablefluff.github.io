@@ -26,6 +26,10 @@ img {
     border-bottom-right-radius:55% 15%;
 }
 
+.base {
+    justify-content: center;
+}
+
 .homepagelink {
     color:white;
     text-decoration: none;
