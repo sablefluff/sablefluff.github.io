@@ -4,7 +4,7 @@ html, body {
     background-color: rgb(70, 70, 70);
     color:white;
     height:100%;
-    background-image:url("/assets/scanlines.png");
+    background-image:url("/assets/scanline.png");
     background-blend-mode: multiply;
 }
 
