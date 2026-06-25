@@ -4,8 +4,8 @@ html, body {
     background-color: rgb(95, 95, 95);
     color:white;
     height:100%;
-    background-image:url("/assets/scanline.png");
-    background-blend-mode: soft-light;
+    background-image:url("/assets/scanlines.png");
+    background-blend-mode: overlay;
 }
 
 img {
