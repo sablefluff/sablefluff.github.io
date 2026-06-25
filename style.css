@@ -19,10 +19,6 @@ img {
     height:100%;
 }
 
-.homepagelink {
-    color:white;
-    text-decoration: none;
-}
 .defaultlink:link {
     color:rgb(187, 24, 24);
     text-decoration: none;
@@ -37,5 +33,9 @@ img {
 }
 .defaultlink:active {
     color:rgb(255, 95, 95);
+    text-decoration: none;
+}
+.homepagelink {
+    color:white;
     text-decoration: none;
 }
