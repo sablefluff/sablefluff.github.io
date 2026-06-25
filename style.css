@@ -12,6 +12,10 @@ img {
     display: block;
 }
 
+p {
+    height:fit-content;
+}
+
 .main {
     display:flex;
     justify-content: center;
