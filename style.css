@@ -6,6 +6,12 @@ html, body {
     height:100%;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
 .main {
     display:flex;
     justify-content: center;
