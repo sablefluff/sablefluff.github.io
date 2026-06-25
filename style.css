@@ -24,14 +24,18 @@ img {
     text-decoration: none;
 }
 .sidebarlink:link {
-    color:rgb(163, 52, 52);
+    color:rgb(187, 24, 24);
+    text-decoration: none;
 }
 .sidebarlink:visited {
-    color:rgb(163, 52, 52);
+    color:rgb(214, 61, 61);
+    text-decoration: none;
 }
 .sidebarlink:hover {
-    color:rgb(206, 35, 35);
+    color:rgb(255, 95, 95);
+    text-decoration: none;
 }
 .sidebarlink:active {
-    color:rgb(235, 15, 15);
+    color:rgb(255, 95, 95);
+    text-decoration: none;
 }
