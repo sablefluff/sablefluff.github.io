@@ -15,14 +15,15 @@ img {
 .main {
     display:flex;
     justify-content: center;
-    align-items: stretch;
+    align-items:start;
     height:fit-content;
 }
 
 .sidebar {
-    flex: 0 0 20%;
     background-color: rgb(40, 40, 40);
+    position: absolute;
     height: 100%;
+    width: 20%;
 }
 
 .homepagelink {
