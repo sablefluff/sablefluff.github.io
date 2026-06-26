@@ -26,6 +26,7 @@ img {
     width: 20%;
     height: 130%;
     border-bottom-right-radius:55% 15%;
+    text-size-adjust: inherit;
 }
 
 .base {
