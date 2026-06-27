@@ -6,6 +6,7 @@ html, body {
     height:100%;
     background-image:url("/assets/scanlines.png");
     background-blend-mode: soft-light;
+    line-height: 1.315;
 }
 
 img {
@@ -26,6 +27,7 @@ img {
     width: 20%;
     height: 130%;
     border-bottom-right-radius:55% 15%;
+    line-height: 1.125;
 }
 
 .base {
