@@ -36,8 +36,8 @@ img {
 
 .homepagelink {
     color:white;
-    text-decoration: underline;
-    text-decoration-color: rgb(214, 61, 61);
+    text-decoration: none;
+    border-bottom: 3px solid rgb(187, 24, 24);
 }
 .sidebarlink:link {
     color:rgb(187, 24, 24);
