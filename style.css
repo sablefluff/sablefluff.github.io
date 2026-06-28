@@ -32,9 +32,10 @@ img {
 }
 
 .article {
-    width:80%;
+    width:73%;
     position: absolute;
-    margin:2% 2% 2% 4%;
+    top:2%;
+    left:25%;
 }
 
 .base {
