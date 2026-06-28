@@ -22,17 +22,17 @@ img {
     top:0;
     left:0;
     background-color: rgb(40, 40, 40);
-    width: 20%;
+    width: 17%;
     height: 100%;
     /* border-bottom-right-radius:55% 15%; */
     line-height: 1.125;
 }
 
 .article {
-    width:73%;
+    width:76%;
     position: absolute;
-    top:2%;
-    left:25%;
+    top:28px;
+    left:22%;
 }
 
 .base {
