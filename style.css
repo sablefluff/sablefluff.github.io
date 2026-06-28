@@ -15,9 +15,9 @@ img {
 }
 
 .main {
-    display:flex;
+    /* display:flex;
     justify-content: right;
-    align-items:start;
+    align-items:start; */
 }
 
 .sidebar {
@@ -33,6 +33,7 @@ img {
 
 .article {
     width:80%;
+    position: absolute;
     margin:2% 2% 2% 4%;
 }
 
