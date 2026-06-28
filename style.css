@@ -16,7 +16,7 @@ img {
 
 .main {
     display:flex;
-    justify-content: center;
+    justify-content: right;
     align-items:start;
 }
 
@@ -33,7 +33,6 @@ img {
 
 .article {
     width:80%;
-    left:100%;
     margin:2% 2% 2% 4%;
 }
 
