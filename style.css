@@ -3,7 +3,6 @@ html, body {
     margin:0%;
     background-color: rgb(70, 70, 70);
     color:white;
-    height:100%;
     background-image:url("/assets/scanlines.png");
     background-blend-mode: soft-light;
     line-height: 1.315;
@@ -19,7 +18,6 @@ img {
     display:flex;
     justify-content: center;
     align-items:start;
-    height:100%;
 }
 
 .sidebar {
@@ -31,6 +29,12 @@ img {
     height: 100%;
     /* border-bottom-right-radius:55% 15%; */
     line-height: 1.125;
+}
+
+.article {
+    width:80%;
+    left:100%;
+    margin:2% 2% 2% 4%;
 }
 
 .base {
